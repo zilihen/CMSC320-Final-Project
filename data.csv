@@ -1,4 +1,4 @@
-﻿Date,S&P Comp P,Dividend,Earnings,CPI,Data Fraction,Long Interest Rate GS10,Real Price,Real Dividend, Real Total Return Price ,Real Earnings, Real TR Scaled Earnings ,CAPE,,TR CAPE,,Excess CAPE Yield,Monthly Total Bond Returns,Real Total Bond Returns,10 Year Annualized Stock Real Return,10 Year Annualized Bonds Real Return,Real 10 Year Excess Annualized Returns,,,,
+﻿Date,S&P Comp P,Dividend,Earnings,CPI,Date Fraction,Long Interest Rate GS10,Real Price,Real Dividend,Real Total Return Price,Real Earnings,Real TR Scaled Earnings,CAPE,,TR CAPE,,Excess CAPE Yield,Monthly Total Bond Returns,Real Total Bond Returns,10 Year Annualized Stock Real Return,10 Year Annualized Bonds Real Return,Real 10 Year Excess Annualized Returns,,,,
 1871.01,4.44,0.26,0.40,12.46,1871.04,5.32,119.61,7.00, 119.61 ,10.78, 10.78 ,NA,,NA,,,1.00,1.00,13.06%,9.25%,3.81%,,,,
 1871.02,4.50,0.26,0.40,12.84,1871.13,5.32,117.64,6.80, 118.20 ,10.46, 10.51 ,NA,,NA,,,1.00,0.97,13.09%,9.46%,3.62%,,,,
 1871.03,4.61,0.26,0.40,13.03,1871.21,5.33,118.75,6.70, 119.88 ,10.30, 10.40 ,NA,,NA,,,1.00,0.96,13.10%,9.62%,3.48%,,,,
